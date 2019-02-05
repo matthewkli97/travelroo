@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/travelbear/precache-manifest.adaf6dd7be9668f8ead3e31771ac8710.js"
+  "travelroo.io/travelbear/precache-manifest.0b3f60aef013d682c313b0b73ddce522.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/travelbear/index.html", {
+workbox.routing.registerNavigationRoute("travelroo.io/travelbear/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

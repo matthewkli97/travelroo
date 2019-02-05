@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/travelbear/static/media/uw.4d74bb12.png"
   },
   {
-    "revision": "9ec499779351b8fb412061303b9400a4",
+    "revision": "674400341bad4847f13bae2d83d7311a",
     "url": "/travelbear/index.html"
   }
 ];

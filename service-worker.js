@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/travelbear/precache-manifest.cc7e2863392e98102795106441031a3b.js"
+  "/travelbear/precache-manifest.da66bb797a48e034a071d16a839bdc1c.js"
 );
 
 workbox.clientsClaim();

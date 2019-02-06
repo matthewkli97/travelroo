@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "03aee31437cafbf32e4b",
-    "url": "/travelbear/static/css/main.2428958f.chunk.css"
+    "revision": "93ad84f493d04c830f09",
+    "url": "/travelbear/static/css/main.295bce46.chunk.css"
   },
   {
-    "revision": "03aee31437cafbf32e4b",
-    "url": "/travelbear/static/js/main.03aee314.chunk.js"
+    "revision": "93ad84f493d04c830f09",
+    "url": "/travelbear/static/js/main.93ad84f4.chunk.js"
   },
   {
     "revision": "57ebfd11e32e76bdc162",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/travelbear/static/media/kangaroo_white.2e94f37b.svg"
   },
   {
-    "revision": "e6dab0772ddcdaafffe0981c6c6c8368",
+    "revision": "f072bf11fb8f1cdee6442e665e2af924",
     "url": "/travelbear/index.html"
   }
 ];

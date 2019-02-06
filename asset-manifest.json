@@ -1,7 +1,7 @@
 {
-  "main.css": "/travelbear/static/css/main.2428958f.chunk.css",
-  "main.js": "/travelbear/static/js/main.03aee314.chunk.js",
-  "main.js.map": "/travelbear/static/js/main.03aee314.chunk.js.map",
+  "main.css": "/travelbear/static/css/main.295bce46.chunk.css",
+  "main.js": "/travelbear/static/js/main.93ad84f4.chunk.js",
+  "main.js.map": "/travelbear/static/js/main.93ad84f4.chunk.js.map",
   "static/css/1.f1e22ecc.chunk.css": "/travelbear/static/css/1.f1e22ecc.chunk.css",
   "static/js/1.57ebfd11.chunk.js": "/travelbear/static/js/1.57ebfd11.chunk.js",
   "static/js/1.57ebfd11.chunk.js.map": "/travelbear/static/js/1.57ebfd11.chunk.js.map",
@@ -20,9 +20,9 @@
   "static/media/ischool.svg": "/travelbear/static/media/ischool.1ec147cf.svg",
   "static/media/uw.png": "/travelbear/static/media/uw.4d74bb12.png",
   "static/media/kangaroo_white.svg": "/travelbear/static/media/kangaroo_white.2e94f37b.svg",
-  "static/css/main.2428958f.chunk.css.map": "/travelbear/static/css/main.2428958f.chunk.css.map",
   "static/css/1.f1e22ecc.chunk.css.map": "/travelbear/static/css/1.f1e22ecc.chunk.css.map",
+  "static/css/main.295bce46.chunk.css.map": "/travelbear/static/css/main.295bce46.chunk.css.map",
   "index.html": "/travelbear/index.html",
-  "precache-manifest.767e41103afd9187373431bf5456cb04.js": "/travelbear/precache-manifest.767e41103afd9187373431bf5456cb04.js",
+  "precache-manifest.cc7e2863392e98102795106441031a3b.js": "/travelbear/precache-manifest.cc7e2863392e98102795106441031a3b.js",
   "service-worker.js": "/travelbear/service-worker.js"
 }
